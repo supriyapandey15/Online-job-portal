@@ -71,16 +71,15 @@ Online Job Portal is a web application designed to streamline the job search and
 
   * Compile the java code and deploy it in your web server 
                  -  For Example : Apache Tomcat.
-###### 5. Run the Application:
+##### 5. Run the Application:
 
   ## Usage 
- 1. Register ass a new user.
 
- 2.Login with your credentials.
-  
- 3.Browse available jobs.
-  
- 4. Apply for jobs (if logged in as an employer).
+1.	Register ass a new user.
+2.	Login with your credentials.
+3.	Browse available jobs.
+4.	Apply for jobs (if logged in as an employer).
+
     
      
        
