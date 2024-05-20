@@ -25,6 +25,25 @@ Online Job Portal is a web application designed to streamline the job search and
 # Project Features 
 
   The Backend consist of Java Classes structured as follows :
+
+    * DBCoonect.java: A class to handle database connections.
+
+    * DAO classes :
+       > JobDAO.java : Contains methods for CRUD operations on job listings.
+
+       > UserDAo.java : Contains methods for CRUD operations on user data.
+
+    * Entity Classes :
+
+      > Job.java : Represents the job entity.
+
+      > User.java : Represents the user entity.
+
+  # Getting Started 
+
+    * Prerequisites 
+
+     > Java Development Kit  * (JDK)8 * 
     
      
        
