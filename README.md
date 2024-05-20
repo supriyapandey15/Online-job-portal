@@ -1,4 +1,4 @@
-# Online-job-portal
+ # Online-job-portal
 
 Online Job Portal is a web application designed to streamline the job search and application process for job seekers and employers. The frontend of the application is built using HTML, CSS, JAVASCRIPT and BOOTSTRAP, providing a responsive and user-friendly interface. The backend is  powered by , MySQL, with DAO classes  handling database interactions.
 
@@ -64,24 +64,23 @@ Online Job Portal is a web application designed to streamline the job search and
 
    * Execute the SQL scripts in database to create necessary tables.
 
-  ###### 3. Configure the database connection:
+  ##### 3. Configure the database connection:
 
   * Update the databae URL, username and password in 'DBConnect.java'.         
-  ###### 4.Deploy the application:
+  ##### 4. Deploy the application:
 
   * Compile the java code and deploy it in your web server 
                  -  For Example : Apache Tomcat.
 ###### 5. Run the Application:
 
   ## Usage 
-  
-  1. Register ass a new user.
+ 1. Register ass a new user.
 
-  2.Login with your credentials.
+ 2.Login with your credentials.
   
-  3.Browse available jobs.
+ 3.Browse available jobs.
   
-  4. Apply for jobs (if logged in as an employer).
+ 4. Apply for jobs (if logged in as an employer).
     
      
        
