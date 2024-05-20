@@ -6,8 +6,10 @@ Online Job Portal is a web application designed to streamline the job search and
    * User Registration and Authentication : Uers can create account, log-in, and manage their profiles.
    * Job Listings : Employers can post job openings, and job seekers can browse through available jobs.
    * Search and Filter : User can serach for jobs based on various criteria like job title, loaction, and category.
+     
 # Technologies Used 
- * Frontend
+
+### * Frontend
      > HTML : For structuring the content of the web pages.
      
      > CSS : For styling the web pages.
@@ -16,7 +18,7 @@ Online Job Portal is a web application designed to streamline the job search and
      
      > Bootstrap : For responsive design and pre-styled components.
 
-* Backend
+### * Backend
   
      > Java : For backend logic and data processing.
      
@@ -26,14 +28,14 @@ Online Job Portal is a web application designed to streamline the job search and
 
   The Backend consist of Java Classes structured as follows :
 
-    * DBCoonect.java: A class to handle database connections.
+ ###   * DBCoonect.java: A class to handle database connections.
 
-    * DAO classes :
+ ###   * DAO classes :
        > JobDAO.java : Contains methods for CRUD operations on job listings.
 
        > UserDAo.java : Contains methods for CRUD operations on user data.
 
-    * Entity Classes :
+  ###  * Entity Classes :
 
       > Job.java : Represents the job entity.
 
