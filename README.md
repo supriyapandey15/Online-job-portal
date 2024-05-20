@@ -9,14 +9,21 @@ Online Job Portal is a web application designed to streamline the job search and
 # Technologies Used 
  * Frontend
      > HTML : For structuring the content of the web pages.
+     
      > CSS : For styling the web pages.
+     
      > Javascript : For adding interactivity and handling client-side logic.
+     
      > Bootstrap : For responsive design and pre-styled components.
-   * Backend
+
+* Backend
+  
      > Java : For backend logic and data processing.
+     
      > MySQl : For database management and data storage.
 
-#Project Features 
+# Project Features 
+
   The Backend consist of Java Classes structured as follows :
     
      
