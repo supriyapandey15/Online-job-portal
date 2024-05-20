@@ -8,8 +8,7 @@ Online Job Portal is a web application designed to streamline the job search and
    * Search and Filter : User can serach for jobs based on various criteria like job title, loaction, and category.
      
 # Technologies Used 
-
-### * Frontend
+### Frontend
 
   •	HTML : For structuring the content of the web pages.
 
@@ -19,21 +18,19 @@ Online Job Portal is a web application designed to streamline the job search and
 
   •	Bootstrap : For responsive design and pre-styled components.
 
-
-### * Backend
+###  Backend
   
   •	Java : For backend logic and data processing.
 
-   •	MySQL : For database management and data storage.
-
+  •	MySQL : For database management and data storage.
 
 # Project Features 
 
 - The Backend consist of Java Classes structured as follows :
 
  ####  DBCoonect.java : 
-    
- * A class to handle database connections.
+ 
+   * A class to handle database connections.
 
  ###  DAO classes :
  
@@ -63,21 +60,18 @@ Online Job Portal is a web application designed to streamline the job search and
      
    #####  2. Setup the MySQL database: 
 
-   * Create a database named 'jobortal'.
+  * Create a database named 'jobortal'.
 
-  * Execute the SQL scripts in database to create necessary tables.
+   * Execute the SQL scripts in database to create necessary tables.
 
   ###### 3. Configure the database connection:
 
-  * Update the databae URL, username and password in 'DBConnect.java'.
-              
-  ###### 4. Deploy the application:
+  * Update the databae URL, username and password in 'DBConnect.java'.         
+  ###### 4.Deploy the application:
 
   * Compile the java code and deploy it in your web server 
                  -  For Example : Apache Tomcat.
-
-######  5. Run the Application:
-
+###### 5. Run the Application:
 
   ## Usage 
   
